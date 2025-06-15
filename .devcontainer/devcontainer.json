@@ -5,7 +5,7 @@
 		"context": "..",
 		"args": {
 			"VARIANT": "3.10", // Set Python version here
-			"NODE_VERSION": "lts/*"
+			"NODE_VERSION": "none"
 		}
 	},
 	"customizations": {
